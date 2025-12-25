@@ -37,6 +37,20 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8552743c-cc49-40b8-8537-8e7234e2a933"
+      },
+      "isProduction": true,
+      "publicKeyHashes": {
+        "example.com": [
+          "EtWiDAf3KYe4hIAx0ui3R7F6mxUoO9qekPwqlLONQzU=",
+          "CLOmM1/OXvSPjw5UOYbAf9GKOxImEp9hhku9W90fHMk=",
+          "hxqRlPTu1bMS/0DITB1SSu0vd4u/8l8TjPgfaAp63Gc="
+        ]
+      }
     }
   }
 }
